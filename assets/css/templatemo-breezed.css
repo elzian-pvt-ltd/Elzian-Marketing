@@ -319,7 +319,7 @@ header
 */
 
 .background-header {
-  background-color: #fff;
+  background-color: rgb(51,155,158);
   height: 80px!important;
   position: fixed!important;
   top: 0px;
@@ -450,7 +450,7 @@ header
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #5fb759!important;
+  color: #fff!important;
   opacity: 1;
 }
 
@@ -1115,7 +1115,7 @@ testimonials
   margin-top: 120px;
   padding: 80px 0px;
   padding: 120px 0px;
-  background-image: url(../images/slide-03.jpg);
+  background-image: url(../images/slide-01.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
