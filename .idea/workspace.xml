@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f2805b1-b629-4b9c-8174-50597e762d71" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/images/team/LILAN.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/team/Mihindu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/team/Mihindu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="395" column="70" selection-start-line="395" selection-start-column="70" selection-end-line="395" selection-end-column="70" />
+            <state relative-caret-position="249">
+              <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -97,6 +95,7 @@
       <find>autho</find>
       <find>author-item</find>
       <find>author</find>
+      <find>a class</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,12 +211,12 @@
       <workItem from="1611740546726" duration="143000" />
       <workItem from="1611757985278" duration="12093000" />
       <workItem from="1612240475541" duration="1365000" />
-      <workItem from="1612877658208" duration="569000" />
+      <workItem from="1612877658208" duration="886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14170000" />
+    <option name="totallyTimeSpent" value="14487000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -402,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="395" column="70" selection-start-line="395" selection-start-column="70" selection-end-line="395" selection-end-column="70" />
+        <state relative-caret-position="249">
+          <caret line="72" column="26" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
         </state>
       </provider>
     </entry>
